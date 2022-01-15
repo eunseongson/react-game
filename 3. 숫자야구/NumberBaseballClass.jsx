@@ -96,4 +96,4 @@ class NumberBaseball extends Component {
 
 export const hello = 'hello' // import {hello}
 
-export default NumberBaseballClass // import NumberBasebaool;
+export default NumberBaseball // import NumberBasebaool;
